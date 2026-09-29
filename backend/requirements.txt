@@ -1,5 +1,7 @@
-fastapi==0.115.0
-uvicorn[standard]==0.31.0
-sqlalchemy==2.0.35
-pydantic==2.9.2
-python-slugify==8.0.4
+fastapi==0.141.1
+uvicorn[standard]==0.54.0
+sqlalchemy==2.1.1
+pydantic==2.13.5
+python-slugify==9.1.2
+pytest==9.1.1
+httpx2==2.13.1
