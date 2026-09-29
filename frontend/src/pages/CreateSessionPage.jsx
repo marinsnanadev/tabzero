@@ -36,7 +36,7 @@ export default function CreateSessionPage() {
 
   return (
     <>
-      <h1>Rachômetro</h1>
+      <h1>Tabzero</h1>
       <p className="muted">
         Crie uma sessão, lance os gastos do grupo e receba o menor número de
         transferências para todo mundo ficar quite.

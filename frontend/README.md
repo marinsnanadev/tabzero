@@ -1,4 +1,4 @@
-# Rachômetro — Frontend
+# Tabzero — Frontend
 
 SPA em React + Vite. Consome a API do backend (`../backend`).
 

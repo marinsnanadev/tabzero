@@ -6,7 +6,7 @@ from app.routers import sessions
 
 Base.metadata.create_all(bind=engine)
 
-app = FastAPI(title="Rachômetro API", version="0.1.0")
+app = FastAPI(title="Tabzero API", version="0.1.0")
 
 app.add_middleware(
     CORSMiddleware,
